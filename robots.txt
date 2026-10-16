@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mariomartinezii.github.io/agent-ops-kit/sitemap.xml
